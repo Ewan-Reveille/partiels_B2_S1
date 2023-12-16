@@ -253,15 +253,10 @@ body .landing-page div .line {
   background-image: linear-gradient(to right, #FFBD1D 20%, #FF8A22 20%, #FF8A22 40%, #17E5F5 40%, #17E5F5 60%, #45A1FF 60%, #45A1FF 80%, #F74D9D 80%, #F74D9D 100%);
 }
 body .landing-page div h2 {
-  font-size: 48px;
-  text-transform: uppercase;
-  color: #FFBD1D;
-  font-weight: 400;
-  margin: 24px 0;
-}
-body .landing-page div p {
   width: 85%;
   font-size: 24px;
+  margin: 24px 0;
+  font-weight: 400;
 }
 body .landing-page img {
   width: 31%;

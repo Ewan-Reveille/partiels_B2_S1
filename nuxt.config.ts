@@ -8,7 +8,7 @@ library.add(faFacebookF, faInstagram, faYoutube, faLinkedin, faTiktok)
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default {
   head: {
-    title: 'Stage d\'immersion - MyDigitalSchool',
+    title: 'École multimédia et digital – MyDigitalSchool',
     htmlAttrs: {
       lang: 'fr'
     },
